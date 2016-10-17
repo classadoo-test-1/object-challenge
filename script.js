@@ -9,6 +9,11 @@ console.log("asdfasDF")
 var u = 9
 console.log("sdf")
 console.log("asdfa")
+asdfasdf
+ asd;flk asd
+ f asdlf; asd
+ f' as
+ df' consol
 
 drawPerson(person)
 
