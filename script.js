@@ -6,15 +6,8 @@ var person = {
   catchphrase: "Get pumped!"
 }
 
+
 drawPerson(person)
-console.log("asdf")
-console.log("asdf")console.log("asdf")
-console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")console.log("asdf")
-aslkdjfasdf
- as
- df asdflk jas;dlkf ;laksdf;lk asd;lf ;alsdkf;lkasdf;lkasd;lk
- asd;lkas
- as;lkasd;lfk;lk
 
 function drawPerson(person) {
   person.name = "Ralph"
